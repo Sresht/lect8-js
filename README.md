@@ -1,4 +1,4 @@
-Welcome to Lecture 9!
+Welcome to Lecture 8!
 
 In this activity, we're going to figure out how to use multiple URLs in Flask.
 Then we're going to figure out some basics of Javascript, and adding Javascript
