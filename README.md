@@ -12,7 +12,7 @@ code to HTML apps.
    username.
 3. Run `gorigin lect8-js`, which will configure your SSH key to lect8-js.
       If this doesn't work for some reason, run the following:
-         `git remote rm origin`
+         `git remote rm origin` &&
          `git remote add origin http://www.github.com/<your-username>/lect8-js`.
 4. Go to github and make a new personal repository named lect8-js.
 5. Run `git remote -v` and make sure this points to your newly created Github
