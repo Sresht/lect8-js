@@ -5,7 +5,7 @@ Then we're going to figure out some basics of Javascript, and adding Javascript
 code to HTML apps.
 
 1. Run `git clone https://github.com/Sresht/lect8-js`
-2. If you haven't already, go to `https://www.github.com/Sresht/lect7/.bashrc`
+2. If you haven't already, go to `https://github.com/Sresht/lect7/blob/master/.bashrc`
    and copy everything from line 75 (# git aliases and functions) to the end
    of the file. Put this in your own .bashrc, and don't forget to run
    `source .bashrc`. Make sure to change line 78 from "Sresht" to your Github
