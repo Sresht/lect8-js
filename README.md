@@ -8,7 +8,7 @@ code to HTML apps.
 2. If you haven't already, go to `https://github.com/Sresht/lect7/blob/master/.bashrc`
    and copy everything from line 75 (# git aliases and functions) to the end
    of the file. Put this in your own .bashrc, and don't forget to run
-   `source .bashrc`. Make sure to change line 78 from "Sresht" to your Github
+   `source ~/.bashrc`. Make sure to change line 78 from "Sresht" to your Github
    username.
 3. Run `gorigin lect8-js`, which will configure your SSH key to lect8-js.
       If this doesn't work for some reason, run the following:
